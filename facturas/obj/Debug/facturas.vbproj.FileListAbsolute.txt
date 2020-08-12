@@ -1,0 +1,12 @@
+C:\Users\manuel\source\repos\facturas\bin\Debug\facturas.exe.config
+C:\Users\manuel\source\repos\facturas\bin\Debug\facturas.exe
+C:\Users\manuel\source\repos\facturas\bin\Debug\facturas.pdb
+C:\Users\manuel\source\repos\facturas\bin\Debug\facturas.xml
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.vbprojAssemblyReference.cache
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.Form1.resources
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.Resources.resources
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.vbproj.GenerateResource.cache
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.vbproj.CoreCompileInputs.cache
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.exe
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.xml
+C:\Users\manuel\source\repos\facturas\obj\Debug\facturas.pdb
